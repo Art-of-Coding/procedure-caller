@@ -48,7 +48,7 @@ class ProcedureCaller {
 
     const procedure = this._procedures.get(name)
 
-    return procedure.apply(procedure, args)
+    return procedure.apply(null, args)
   }
 
   /**
