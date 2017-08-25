@@ -1,6 +1,6 @@
 {
 	"name": "@art-of-coding/procedure-caller",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Define and call procedures easily",
 	"author": {
 		"name": "Michiel van der Velde",
